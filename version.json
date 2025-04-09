@@ -1,6 +1,6 @@
 {
   "versionCode": 1,
   "versionName": "1.0.0",
-  "apkUrl": "",
+  "apkUrl": "https://raw.githubusercontent.com/devopskankatala/kankatalaapp-updates/blob/main/releases/download/v1.0.0/app-release.apk",
   "changeLog": "🚀 Initial release: fixed bugs"
 }
